@@ -1,2 +1,0 @@
-# .github
-Boltise organization profile
